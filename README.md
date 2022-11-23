@@ -1,4 +1,4 @@
-# public-code
+# Public Code
 Code anyone within AOE can use as a template to get started with coding. Simply copy one the programs into the org.firstinspires.ftc.teamcode package and upload it to the robot.
 Each folder corrosponds to different templates and or default versions of their corrosponding type of code file.
 
